@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/shared_pref"
+    android:title="shared pref"
+    app:showAsAction="never"
+    android:onClick="go_to_shared"></item>
+</menu>
